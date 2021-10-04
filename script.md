@@ -1,16 +1,19 @@
 <music>
+  
+## General Intro
 Welcome to Rediscovering The Bible.  In this _show_ we look to understand the ancient Bible by examining when, how, and by whom it was written - so that we might be able to legitimately apply it to our modern lives.
 
-Script:
+  
+## Episode Intro
 
-Our teachers today are: pastor Jaime Ramirez, and <whoever>.  I am your host <whoever>.
-Our topic for this _show_ is <whatever>.
+Our teachers today are: <whoever>, and <whoever>.  
+I am your host <whoever>.
+Our topic for this episode is <whatever>.
 
 <leading question to prompt a discussion about the historical/cultural aspects of the topic/scripture>
 
 <teacher #1 response>
 <teacher #2 response>
-...
 
 
 <leading question to prompt a discussion of the literary/lexical/semantic aspects of the topic/scripture>
