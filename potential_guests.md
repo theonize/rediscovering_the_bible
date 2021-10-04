@@ -26,3 +26,5 @@ Louis Markos
 Sam Lamerson
 
 Daniel Wallace
+
+Douglas Hamp
