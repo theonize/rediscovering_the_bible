@@ -13,4 +13,4 @@ To present the Bible to modern man from it's origins.  The Bible was not written
 
 ## Request a Topic
 
-You can request that a specific topic be addressed by [clicking here]() and filling out the form in detail.
+You can request that a specific topic be addressed by [clicking here](https://github.com/theonize/rediscovering_the_bible/issues/new?assignees=&labels=&template=episode-request.md&title=Episode+Request) and filling out the form in detail.
