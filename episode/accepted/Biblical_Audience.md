@@ -1,8 +1,10 @@
-# How Have People Read the Bible
+# The Biblical Audience
+### How Have People Read the Bible
 
 
 ## Who were the original writers
 
+. Antedeluvian people  
 . Ancient Arab leaders  
 . Semitic Yahweh cultists  
 . Jewish priesthood  
@@ -11,6 +13,7 @@
 
 ## Who Was the Original Audience
 
+. Original humans  
 . Arab tribesmen  
 . Semitic wanderers  
 . Israeli vassals  
@@ -19,9 +22,9 @@
 
 ## Editors and Copyists
 
-. The Bible has dozens of original authors
-. ...but, likely, hundreds of people compiled and edited the original source texts
-. What we have now is a divinely inspired canon
+. The Bible has dozens of original authors  
+. Also, likely, hundreds of people compiled and edited the original source texts  
+. What we have now is a divinely inspired canon  
 
 
 ## Extended Audience
