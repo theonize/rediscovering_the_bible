@@ -2,7 +2,6 @@ Welcome to Rediscovering the Bible.
 We are humbled and honored to be here with you.
 The purpose of this show is to To channel the authority of scripture by presenting the Bible to modern man from it's origins.
 The Bible was not written to us but it was written for us.
-We can, and should, act on what we receive from studying it.
 
 
 Todays episode is <EPISODE BLURB>.
