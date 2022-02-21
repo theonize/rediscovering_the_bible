@@ -82,10 +82,10 @@ The Bible has dozens of original authors.  Also, likely, hundreds of people comp
 
 ## Egress
 
-Thank you for joining us today for our dive into <EPISODE TITL>.
+Thank you for joining us today for our dive into Rediscovering the Bible.
 
-More information, including study notes, can be found at <WEBAPP-URL>.
+More information, including study notes, can be found at rtb.para.church;  also, direct questions and content requests to rtb@cypressfellowship.org
 
-<QUOTE>
+`Even if you are a minority of one, the truth is the truth.`
 
 Good day and God bless.
