@@ -6,4 +6,4 @@
 
 
 2. Biblical Canon
-  [Notes[(episode/accepted/0002_Biblical_Canon.md)  
+  [Notes](episode/accepted/0002_Biblical_Canon.md)  
