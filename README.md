@@ -1,5 +1,4 @@
 ---
-# front matter
 ---
 # Rediscovering the Bible
 
