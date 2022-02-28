@@ -1,5 +1,3 @@
----
----
 # Rediscovering the Bible
 
 
