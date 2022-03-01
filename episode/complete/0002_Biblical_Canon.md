@@ -8,7 +8,7 @@ Welcome to the second episode of Rediscvering the Bible - canon and sacred writi
 
 ### What is canon?  
   `an authorized collection of content`
-   
+
   To the Roman Catholics canon is an authoritative list of books.  
   To the protestant canon is a list of authoritative books.  
 
@@ -17,6 +17,20 @@ Welcome to the second episode of Rediscvering the Bible - canon and sacred writi
   `A writing of spiritual significance.`  
   
   Its significance often varies by community.
+
+
+### Why were these books authorized?
+  In short: only "inspired" writings were included; though certain criteria were used to establish inspiration.  
+  ...inspiration can be though of as God & man working in unity.  
+
+	1. Ecclesiastical acceptance
+	2. Apostolic authorship
+		a. Apostolos ~ a delegate (or messenger)
+		b. Misattributed authorship always led to rejection
+	3. Expositional constancy
+		a. The message fits with the rest of scripture
+	4. Orthodoxy
+		a. The theology matches the rest of scripture
 
 
 ### What is the biblical Canon?
@@ -35,19 +49,8 @@ Welcome to the second episode of Rediscvering the Bible - canon and sacred writi
 		* Do not [always] break Samuel, King, and Chronicles into parts 1 & 2
 		* May combine Ezra & Nehemiah
 
-
-### Why were these books authorized?
-  In short: only "inspired" writings were included; though certain criteria were used to establish inspiration.  
-  ...inspiration can be though of as God & man working in unity.  
-
-	1. Apostolic authorship
-		a. Apostolos ~ a delegate (or messenger)
-		b. Misattributed authorship always led to rejection
-	2. Ecclesiastical acceptance
-	3. Expositional constancy
-		a. The message fits with the rest of scripture
-	4. Orthodoxy
-		a. The theology matches the rest of scripture
+  Jesus mentioned the law of Moses and the prophets and in the Psalms
+  - [Luke 24:44]
 
 
 ### Who authorized them? when?
@@ -62,10 +65,14 @@ Welcome to the second episode of Rediscvering the Bible - canon and sacred writi
   The author of this book is unknown.  
   Hoever, it is considered apostolic in origin and is self-integrating with the canon.
 
+### e.g. Apocrypha
+  Sacred, biblical but not canon.
+  It refers to Biblical, canonical scripture and talks about Biblical history events.
+
 ### e.g. The Book of Enoch (sometimes called 1st Enoch)
   The church father Origen was highly in favor of including Enoch in the complete canon.
   However, he gave up the banner when he has the only one left holding it.
-  
+
 ### e.g. Gospel of Thomas
   Written sometime prior to 250 but the authorship is misattributed to Thomas.
   It does not align with the Bible's view of women (downplaying Mary and disaffecting womans' status in general.)
@@ -80,11 +87,27 @@ Welcome to the second episode of Rediscvering the Bible - canon and sacred writi
   B. Catholical, ecclesiastical unity in canonizing another writing seems unlikely in the denominational world
 
 
+### Inspiration
+
+  [2 Peter 1:20-21]()
+  [2 Timothy 3:16]()
+
+- Dictation (entranced)
+- Verbal plenary
+
+The fact is that God orchestrated all the events of the author's life up to, and including, the act of writing the Scripture.
+
+
+### Transmission
+
+Was the process of transmitting the word inspired?
+
+
 ## Egress
 Thank you for joining us today for our dive into Rediscovering the Bible.
 
 More information, including study notes, can be found at rtb.para.church; also, direct questions and content requests to rtb@cypressfellowship.org
 
-Even if you are a minority of one, the truth is the truth.
+`Reading maketh a full man; speaking a ready man; writing, an exact man.` **Francis Bacon**
 
 Good day and God bless.
