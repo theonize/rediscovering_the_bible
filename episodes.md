@@ -7,4 +7,4 @@
 
 2. Biblical Canon  
 	[Listen](https://anchor.fm/jaime-ramirez0/episodes/Biblical-Canon-e1fa001)
-	[Notes](episode/accepted/0002_Biblical_Canon.md)  
+	[Notes](episode/complete/0002_Biblical_Canon.md)  
