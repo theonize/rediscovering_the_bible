@@ -30,7 +30,12 @@
   * Work backwards to see how the meaning grew
 - Example
   - worship
+    - first mention: Jacob leaned on his staff
+    - OT ~ bow down, 
+    - NT ~ service
   - race
+    - ancestors; fathers, sons
+    - sons of Adam
 
 
 ## Character Study
