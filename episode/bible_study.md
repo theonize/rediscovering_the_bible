@@ -32,7 +32,7 @@
   - worship
     - first mention: Jacob leaned on his staff
     - OT ~ bow down, 
-    - NT ~ service
+    - NT ~ service, bow down
   - race
     - ancestors; fathers, sons
     - sons of Adam
@@ -52,4 +52,5 @@
     - leadership
     - providence
     - no ill mentions
+    - fruitful vine
 
