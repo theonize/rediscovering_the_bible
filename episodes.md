@@ -10,4 +10,26 @@
 	[Notes](episode/complete/0002_Biblical_Canon.md)  
 
 
-3. Extra-Biblical Writings
+3. Extra-Biblical Writings  
+	[Listen](https://anchor.fm/jaime-ramirez0/episodes/Extra-Biblical-Writings-e1gddot)  
+	[Notes](episode/0003/Deuterocanon.docx)  
+	[Notes](episode/0003/ExtraBiblical_Writings.md)  
+
+
+4. Interpretation  
+	[Listen](https://anchor.fm/jaime-ramirez0/episodes/Biblical-Interpretation-e1gboqg)  
+	[Notes](episode/0004/Interpretation.md)  
+	[Notes](episode/0004/Interpretation.docx)  
+
+
+5. Bible Study Methods  
+	[Listen](https://rediscoveringthebible.org)  
+	[Notes](episode/0005/BibleStudy_Methods.md)  
+	[Notes](episode/0005/Bible_study_methods.docx)  
+	[Notes](episode/0005/bible_study.md)  
+
+
+6. Communion  
+	[Listen](https://rediscoveringthebible.org)  
+	[Notes](episode/0006/Transubstantiation.docx)  
+	[Notes](episode/0006/communion.md)  
