@@ -21,7 +21,7 @@ Max-Score 27
 4. Is it followable?  6 max
 - 2pt ~ nice, clear language format that flows sensibly
 - 2pt ~ words are commonly singable
-- 2pt ~ can it be categorized as a psalm, hymn, or spiritual song
+- 2pt ~ can it be categorized as a psalm, hymn, or spiritual song; i.e. can be sung to God
 
 5. Is it musically pleasing?  6 max
 - 2pt ~ nice, catchy melody
