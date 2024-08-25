@@ -1,4 +1,4 @@
-Max-Score 31
+Max-Score 27
 
 1. What is the central doctrine espoused by the song?  6 max
 - 6pt ~ it is central Christian dogma
