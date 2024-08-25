@@ -1,4 +1,4 @@
-# Come As You Are (24/?)
+# Come As You Are (24/27)
 
 What is the central doctrine espoused by the song? 6
 6pt ~ God's redemption is available to all people; no prerequisites.
