@@ -1,11 +1,11 @@
-Max-Score 30
+Max-Score 12
 
 1. What is the central doctrine espoused by the song?  3 max
   - 3pt ~ it is central Christian dogma
-  - 2pt ~ it is important
-  - 1pt ~ it is tradition/secondary
-  - 0pt ~ not really doctrinal but could apply to/from God
-  - -5pt ~ the central message is not biblical
+  - 2pt ~ it is an important doctrine
+  - 1pt ~ it is a traditional/secondary belief
+  - 0pt ~ doesn't espouse belief but could apply to/from God
+  - -5pt ~ the central message is unbiblical
 
 2. Does it mention the God of the Bible?  2 max
   - 2pt ~ yes, directly
@@ -24,7 +24,7 @@ Max-Score 30
   - 1pt ~ words are commonly singable
   - 1pt ~ can it be categorized as a psalm, hymn, or spiritual song; i.e. can be sung to God
 
-5. Is it musically pleasing?  3 max
+5. Is it musically pleasing?  2 max
   - 1pt ~ nice, catchy melody
   - 1pt ~ good harmonies, chord progressions, and dynamics
   - 1pt ~ catchy/memorable
