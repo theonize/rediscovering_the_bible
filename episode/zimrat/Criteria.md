@@ -1,3 +1,5 @@
+Max-Score 31
+
 1. What is the central doctrine espoused by the song? 
 - 6pt ~ it is central Christian dogma
 - 4pt ~ it is important
@@ -17,13 +19,11 @@
 - -5pt ~ speaks ill of God or His ways
 
 4. Is it followable?
-- 2pt ~ nice, clear language format
+- 2pt ~ nice, clear language format that flows sensibly
 - 2pt ~ words are commonly singable
 - 2pt ~ can it be categorized as a psalm, hymn, or spiritual song
-- 2pt ~ the sections/phrases flow sensibly 
 
 5. Is it musically pleasing?
 - 2pt ~ nice, catchy melody
-- 2pt ~ hood harmonies, chord progressions
+- 2pt ~ hood harmonies, chord progressions, and dynamics
 - 2pt ~ catchy/memorable
-- 2pt ~ good use of dynamics
