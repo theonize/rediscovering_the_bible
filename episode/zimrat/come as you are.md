@@ -1,15 +1,15 @@
 # Come As You Are (23/30)
 
 What is the central doctrine espoused by the song? 6
-6pt ~ God's redemption is available to all people; no prerequisites.
+  God's redemption is available to all people; no prerequisites.
 
 
 Does it mention the God of the Bible? 2
-2pt ~ no, but it uses biblical phrases that historically pertain to Yahweh and mentions _sin_ which associates it with biblical Christianity
+  No, but it uses biblical phrases that historically pertain to Yahweh and mentions _sin_ which associates it with biblical Christianity
 
 
 Evangelion 3
-2pt ~ has a gospelish message but does not mention Jesus' sacrifice as the way nor mentions the exclusivity of that way.
+  Has a gospelish message but does not mention Jesus' sacrifice as the way nor mentions the exclusivity of that way.
 
 
 Is it followable? 6
