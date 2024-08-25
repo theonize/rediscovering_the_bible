@@ -13,15 +13,9 @@ Evangelion 3
 
 
 Is it followable? 6
-2pt ~ nice, clear language format
-2pt ~ words are commonly singable
-2pt ~ can it be categorized as a psalm, hymn, or spiritual song
-2pt ~ the sections/phrases flow sensibly
-2pt ~ can be sung to God
+  Nice, clear language format.  Words are commonly singable.  Psalmish feel.  Sensible, followable flow...can be repeated with changing dynamics.  Can be sung to God.
 
 
 Is it musically pleasing? 6
-2pt ~ nice, catchy melody
-2pt ~ good harmonies, chord progressions
-2pt ~ catchy/memorable
-2pt ~ good use of dynamics
+  Pleasing, catchy melody.  Good harmonies, chord progressions.  Catchy/memorable, w/ good use of dynamics.
+
